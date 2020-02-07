@@ -1,0 +1,126 @@
+Converting GML script: ${project_dir}\scripts\draw_rectangle_vita2d\draw_rectangle_vita2d.gml
+Converted description /// @description draw_rectangle_vita2d(x,y,w,h,col)/// @param x
+/// @param y
+/// @param w
+/// @param h
+/// @param col
+
+Converting GML script: ${project_dir}\scripts\draw_text_vita2d\draw_text_vita2d.gml
+Converted description /// @description draw_text_vita2d(pos,x,y,size,text)/// @param pos
+/// @param x
+/// @param y
+/// @param size
+/// @param text
+
+Converting GML script: ${project_dir}\scripts\draw_selectable_vita2d\draw_selectable_vita2d.gml
+Converted description /// @description draw_selectable_vita2d(name,y)/// @param name
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\draw_set_font_manager\draw_set_font_manager.gml
+Converted description /// @description draw_set_font_manager(size)/// @param size
+
+Converting GML script: ${project_dir}\scripts\draw_set_color_manager\draw_set_color_manager.gml
+Converted description /// @description draw_set_color_manager(kind,bgid)/// @param kind
+/// @param bgid
+
+Converting GML script: ${project_dir}\scripts\button_in_position\button_in_position.gml
+Converted description /// @description button_in_position(pointer_to_object)/// @param pointer_to_object
+
+Converting GML script: ${project_dir}\scripts\button_in_position_options\button_in_position_options.gml
+Converted description /// @description button_in_position_options(pointer_to_object)/// @param pointer_to_object
+
+Converting GML script: ${project_dir}\scripts\init_dummy_obj\init_dummy_obj.gml
+Converted description /// @description init_dummy_obj()
+
+Converting GML script: ${project_dir}\scripts\init_menu_items\init_menu_items.gml
+Converted description /// @description init_menu_items()
+
+Converting GML script: ${project_dir}\scripts\init_options_menu_items\init_options_menu_items.gml
+Converted description /// @description init_options_menu_items()
+
+Converting GML script: ${project_dir}\scripts\init_stats_menu_items\init_stats_menu_items.gml
+Converted description /// @description init_stats_menu_items()
+
+Converting GML script: ${project_dir}\scripts\init_start_game_menu_items\init_start_game_menu_items.gml
+Converted description /// @description init_start_game_menu_items()
+
+Converting GML script: ${project_dir}\scripts\init_difficulty_menu_items\init_difficulty_menu_items.gml
+Converted description /// @description init_difficulty_menu_wrappers()
+
+Converting GML script: ${project_dir}\scripts\snd_play_once\snd_play_once.gml
+Converted description /// @description snd_play_once(sound)/// @param sound
+
+Converting GML script: ${project_dir}\scripts\draw_background_texture\draw_background_texture.gml
+Converted description /// @description draw_background_texture(bgid)/// @param bgid
+
+Converting GML script: ${project_dir}\scripts\scr_options_update_textures\scr_options_update_textures.gml
+Converted description /// @description scr_options_update_textures()
+
+Converting GML script: ${project_dir}\scripts\scr_options_draw_cursor\scr_options_draw_cursor.gml
+Converted description /// @description scr_options_draw_cursor(i,text_width)/// @param i
+/// @param text_width
+
+Converting GML script: ${project_dir}\scripts\scr_options_fullscreen\scr_options_fullscreen.gml
+Converted description /// @description scr_options_fullscreen()
+
+Converting GML script: ${project_dir}\scripts\scr_draw_stats\scr_draw_stats.gml
+Converted description /// @description scr_draw_stats(x,y,statData,statName)/// @param x
+/// @param y
+/// @param statData
+/// @param statName
+
+Converting GML script: ${project_dir}\scripts\scr_draw_back_text\scr_draw_back_text.gml
+Converted description /// @description scr_draw_back_text()
+
+Converting GML script: ${project_dir}\scripts\scr_check_back_text\scr_check_back_text.gml
+Converted description /// @description scr_check_back_text()
+
+Converting GML script: ${project_dir}\scripts\scr_get_snake_part\scr_get_snake_part.gml
+Converted description /// @description scr_get_snake_part(mode,part)/// @param mode
+/// @param part
+
+Converting GML script: ${project_dir}\scripts\scr_get_mode_name\scr_get_mode_name.gml
+Converted description /// @description scr_get_mode_name()
+
+Converting GML script: ${project_dir}\scripts\newPart\newPart.gml
+Converted description /// @description newPart(x,y,r)/// @param x
+/// @param y
+/// @param r
+
+Converting GML script: ${project_dir}\scripts\scr_fibonacci\scr_fibonacci.gml
+Converted description /// @description scr_fibonacci()
+
+Converting GML script: ${project_dir}\scripts\checkOpenDistance\checkOpenDistance.gml
+Converted description /// @description checkOpenDistance()
+
+Converting GML script: ${project_dir}\scripts\checkCollision\checkCollision.gml
+Converted description /// @description checkCollision()
+
+Converting GML script: ${project_dir}\scripts\a_rand\a_rand.gml
+Converted description /// @description a_rand()
+
+Converting GML script: ${project_dir}\scripts\saveGame\saveGame.gml
+Converted description /// @description saveGame()
+
+Converting GML script: ${project_dir}\scripts\loadGame\loadGame.gml
+Converted description /// @description loadGame()
+
+Converting GML script: ${project_dir}\scripts\initAsync\initAsync.gml
+Converted description /// @description initAsync()
+
+Converting GML script: ${project_dir}\objects\obj_menu\Other_10.gml
+Converted description /// @description Spawn options menu.
+
+Converting GML script: ${project_dir}\objects\obj_menu\Other_3.gml
+Converted description /// @description Free stuff...
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'menu_move' - setting to default audio group
+Missing audiogroup for sound: 'menu_select' - setting to default audio group
+Missing audiogroup for sound: 'snd_bite' - setting to default audio group
+Missing audiogroup for sound: 'snake_death' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'

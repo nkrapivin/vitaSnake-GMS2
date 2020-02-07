@@ -1,0 +1,1 @@
+if (global.IsMobile) keyboard_key_release(vk_escape);
